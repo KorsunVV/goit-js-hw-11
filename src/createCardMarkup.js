@@ -11,7 +11,7 @@ export function createCardMarkup(data) {
         downloads,
       }) => `<a href="${largeImageURL}" class="gallery__item">
                 <div class="photo-card">
-            <img src="${webformatURL}" alt="${tags}" width="300" height="180" loading="lazy" />
+            <img src="${webformatURL}" alt="${tags}" loading="lazy" />
             <div class="info">
               <p class="info-item">
                 <b>Likes ${likes}</b>
