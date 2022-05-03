@@ -6,11 +6,11 @@
   "homepage": "https://github.com/KorsunVV/goit-js-hw-11",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /pgoit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KorsunVV/goit-js-hw-11.git"
+    "url": "git+https://github.com/KorsunVV/goit-js-hw-11"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
